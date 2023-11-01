@@ -3,6 +3,8 @@ Deep Generative Models in NCHU
 
 
 ## Result Snapshot
+### week8 
+<img width="869" alt="截圖 2023-11-01 下午2 58 12" src="https://github.com/cuboid0223/Deep-Generative-Models/assets/59163273/63cf9137-88e5-439e-8a5b-05d0d0d69e95">
 
 ### Week3
 - 作業1.Unet 貓狗辨識，並用gradcam進行可視化(與第二周相同)
